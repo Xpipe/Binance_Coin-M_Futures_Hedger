@@ -9,14 +9,14 @@
 
 </pre>
 
-Original project developed by [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mahaviracrypto.svg?style=social&label=MahaviraCrypto)](https://twitter.com/mahaviracrypto) - https://twitter.com/MahaviraCrypto
+Original project developed by [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/convexical.svg?style=social&label=convexical)](https://twitter.com/convexical) - https://twitter.com/convexical
 
-All ideas and logic are that of Mahavira Crypto.                                               
+All ideas and logic are that of Convexical.                                      
 
 This is a code port from the original of PHP to Python. 
 
 The original can be found here:
-https://github.com/MahaviraCrypto/Binance_Coin-M_Futures_Hedger
+https://github.com/Convexical/Binance_Coin-M_Futures_Hedger
 
 ### How do I use this and run it?
 In order to get this code to work correctly, you have to do the following:
